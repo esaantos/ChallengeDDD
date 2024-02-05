@@ -1,0 +1,11 @@
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Core\bin\Debug\net8.0\Challenge.Core.deps.json
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Core\bin\Debug\net8.0\Challenge.Core.dll
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Core\bin\Debug\net8.0\Challenge.Core.pdb
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Core\obj\Debug\net8.0\Challenge.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Core\obj\Debug\net8.0\Challenge.Core.AssemblyInfoInputs.cache
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Core\obj\Debug\net8.0\Challenge.Core.AssemblyInfo.cs
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Core\obj\Debug\net8.0\Challenge.Core.csproj.CoreCompileInputs.cache
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Core\obj\Debug\net8.0\Challenge.Core.dll
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Core\obj\Debug\net8.0\refint\Challenge.Core.dll
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Core\obj\Debug\net8.0\Challenge.Core.pdb
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Core\obj\Debug\net8.0\ref\Challenge.Core.dll

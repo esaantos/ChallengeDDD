@@ -1,0 +1,15 @@
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Application\bin\Debug\net8.0\Challenge.Application.deps.json
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Application\bin\Debug\net8.0\Challenge.Application.dll
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Application\bin\Debug\net8.0\Challenge.Application.pdb
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Application\bin\Debug\net8.0\Challenge.Core.dll
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Application\bin\Debug\net8.0\Challenge.Core.pdb
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Application\obj\Debug\net8.0\Challenge.Application.csproj.AssemblyReference.cache
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Application\obj\Debug\net8.0\Challenge.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Application\obj\Debug\net8.0\Challenge.Application.AssemblyInfoInputs.cache
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Application\obj\Debug\net8.0\Challenge.Application.AssemblyInfo.cs
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Application\obj\Debug\net8.0\Challenge.Application.csproj.CoreCompileInputs.cache
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Application\obj\Debug\net8.0\Challenge.Application.csproj.CopyComplete
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Application\obj\Debug\net8.0\Challenge.Application.dll
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Application\obj\Debug\net8.0\refint\Challenge.Application.dll
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Application\obj\Debug\net8.0\Challenge.Application.pdb
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Application\obj\Debug\net8.0\ref\Challenge.Application.dll

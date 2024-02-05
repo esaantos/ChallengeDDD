@@ -1,0 +1,17 @@
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Infrastructure\bin\Debug\net8.0\Challenge.Infrastructure.deps.json
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Infrastructure\bin\Debug\net8.0\Challenge.Infrastructure.runtimeconfig.json
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Infrastructure\bin\Debug\net8.0\Challenge.Infrastructure.dll
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Infrastructure\bin\Debug\net8.0\Challenge.Infrastructure.pdb
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Infrastructure\bin\Debug\net8.0\Challenge.Core.dll
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Infrastructure\bin\Debug\net8.0\Challenge.Core.pdb
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Infrastructure\obj\Debug\net8.0\Challenge.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Infrastructure\obj\Debug\net8.0\Challenge.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Infrastructure\obj\Debug\net8.0\Challenge.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Infrastructure\obj\Debug\net8.0\Challenge.Infrastructure.AssemblyInfo.cs
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Infrastructure\obj\Debug\net8.0\Challenge.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Infrastructure\obj\Debug\net8.0\Challenge.Infrastructure.csproj.CopyComplete
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Infrastructure\obj\Debug\net8.0\Challenge.Infrastructure.dll
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Infrastructure\obj\Debug\net8.0\refint\Challenge.Infrastructure.dll
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Infrastructure\obj\Debug\net8.0\Challenge.Infrastructure.pdb
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Infrastructure\obj\Debug\net8.0\Challenge.Infrastructure.genruntimeconfig.cache
+C:\Users\Everson\OneDrive\Área de Trabalho\Desafio\Challenge.API\Challenge.Infrastructure\obj\Debug\net8.0\ref\Challenge.Infrastructure.dll
